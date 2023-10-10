@@ -1,4 +1,4 @@
-# I310D
+# Data Curation and Analysis
 Project Goal:
 
 The goal of this project is to curate data by extracting, transforming, loading, plotting, visualizing, and analyzing data on cities in the United Kingdom (UK) from the Wikipedia page "List of cities in the United Kingdom" and performing data visualization and analysis.
