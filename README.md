@@ -13,7 +13,8 @@ Data Sources:
 
 License:
 
-The data extracted from Wikipedia is available under the Creative Commons Attribution-ShareAlike License (CC BY-SA). Users are required to attribute the source and share any derivative works under the same license.
+The data extracted from Wikipedia is available under the Creative Commons Attribution-ShareAlike License (CC BY-SA). 
+Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.enefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 Data Attributes:
 
