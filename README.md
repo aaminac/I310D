@@ -3,7 +3,7 @@ Project Goal:
 
 The goal of this project is to curate data by extracting, transforming, loading, plotting, visualizing, and analyzing data on cities in the United Kingdom (UK) from the Wikipedia page "List of cities in the United Kingdom" and performing data visualization and analysis.
 
-For data curation, I specifically extracted and cleaned data from the Wikipedia page to create a structured dataset of UK cities, including attributes like Image,	City,	Year granted or confirmed,	City council status,	Nation/region	City, Population. I took out the image becausew it could not be seen anyways and that data was not necessary or transferrable.
+For data curation, I specifically extracted and cleaned data from the Wikipedia page to create a structured dataset of UK cities, including attributes like Image,	City,	Year granted or confirmed,	City council status,	Nation/region	City, Population. I took out the image becauseit could not be seen anyways, was irrelevant and unnecessary to the project, and not transferrable.
 
 For visualizing the curated data, I wanted to gain insights into the population distribution among UK cities. The best graph to visualize the data is a bar graph for compasion because it is not a trend but rather comparing population between cities. The bar chart also helps me understand the difference in population in UK cities from highest to lowest populations.
 
